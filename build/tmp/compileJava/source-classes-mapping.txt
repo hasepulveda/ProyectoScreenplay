@@ -1,0 +1,12 @@
+com/google/translate/tasts/OpenTheBrowser.java
+ com.google.translate.tasts.OpenTheBrowser
+com/google/translate/userinterfaces/GoogleHomePage.java
+ com.google.translate.userinterfaces.GoogleHomePage
+com/google/translate/tasts/GoTo.java
+ com.google.translate.tasts.GoTo
+com/google/translate/userinterfaces/GoogleTranslatePage.java
+ com.google.translate.userinterfaces.GoogleTranslatePage
+com/google/translate/userinterfaces/GoogleAppsComponent.java
+ com.google.translate.userinterfaces.GoogleAppsComponent
+com/google/translate/tasts/Translate.java
+ com.google.translate.tasts.Translate
